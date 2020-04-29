@@ -1,7 +1,7 @@
 from array import array
 from urllib.request import urlopen
 
-from datastructures import words, evenodd, arrayrotation
+from dsproblems import words, evenodd, arrayrotation
 
 story = urlopen(
         "https://scroll.in/article/959016/the-political-fix-why-india-will-have-a-hard-time-navigating-its-way-out-of"
